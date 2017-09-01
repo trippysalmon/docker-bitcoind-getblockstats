@@ -1,7 +1,7 @@
 #/bin/sh
 
 if [ -z "$1" ]; then
-    echo "image name not set, use 'buil.sh <image:tag>'"
+    echo "image name not set, use 'build.sh <image:tag>'"
     exit
 fi
 
